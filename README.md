@@ -14,6 +14,9 @@ Graduado em Ciências da Computação pela PUC Goiás e estudante de Ciência de
 Minhas especialidades:
 
 🐍 Python, SQL e R para a área de dados. C++, JavaScript e Linguagens NOCODE como Bubble.
+
 📊 Pandas, NumPy
+
 📈 Visualização com Matplotlib & Seaborn
+
 📋 Google Colab / Excel (VBA) / Power BI;
